@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to SMI!
+
+_WIP_
 
 <!--
 
