@@ -1,7 +1,3 @@
-## Welcome to SMI!
-
-_WIP_
-
 <!--
 
 **Here are some ideas to get you started:**
